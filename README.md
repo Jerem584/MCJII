@@ -1,7 +1,8 @@
 # MCJII
-A Minecraft Jar Injection Infector
+A Minecraft Class infection.
 
 This project is for educational purposes only, I am not responsible for how you use this. I wrote this to further understand injection in Java, and how to use JavaAssist.
+bla bla
 
 This program, when compiled is designed to inject a custom class call in the main method of a minecraft.jar file with the use of JavaAssist.
 
@@ -12,6 +13,7 @@ https://github.com/zeroturnaround/zt-zip
 https://github.com/jboss-javassist/javassist
 
 **How to setup a class file to be injected on runtime?**
+lmao?
 
 **Project Setup:**
 
@@ -101,3 +103,5 @@ Create this in the MCJII folder.
 **Reinstallation and Execution Process:**
 
 The program will let you know when it has injected your code and you can then reinstall the `1.8.7.jar` or whatever jar you injected to back into Minecraft, remember to create a profile for it and set the jar to the one you've injected to. Now your script will be run on when Minecraft launches your jar file.
+
+or just create some method to retrieve normal class, and onexit replace modded class with normal class
